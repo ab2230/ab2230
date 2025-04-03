@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Abrham 👋</h1>
+<h1 align="center">Hi there, I'm Abrham 👋 A full-stack Mobile APP & Web Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-Expert-blue?style=for-the-badge&logo=react" />
@@ -62,7 +62,11 @@ In my Master's studies, I worked on **AI model training** and have completed **c
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abrham&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ab2230/ab2230/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ab2230/ab2230/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ab2230/ab2230/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
