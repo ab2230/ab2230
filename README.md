@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-Expert-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-Expert-blue?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/Node.js-Experienced-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Python-Medium-yellow?style=for-the-badge&logo=python" />
@@ -13,7 +14,7 @@
 ## 🚀 About Me  
 I am a **Software Engineer** with a **Master's and Bachelor's Degree** in Software Engineering.  
 I have **4+ years of experience** in:  
-- **Mobile & Web Development** using **React Native, React**  
+- **Mobile & Web Development** using **React Native, React, Next.js**  
 - **Backend Development** with **Node.js & Express.js**  
 - **Full-Stack Development** with **JavaScript, TypeScript, Tailwind CSS, CSS**  
 
@@ -72,7 +73,7 @@ In my Master's studies, I worked on **AI model training** and have completed **c
 ---
 
 ## 📫 Connect with Me  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/abrham-tesfaye-13541a19a)  
-🌍 **Portfolio:** [Your Portfolio](https://abrham-tesfaye-portfolio.onrender.com/)  
+🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/abrham-tesfaye-13541a19a)  
+🌍 **Portfolio:** [My Portfolio](https://abrham-tesfaye-portfolio.onrender.com/)  
 📞 **Phone:** +251-922346685  
 📩 **Email:** aberhamtesfaye@gmail.com  
